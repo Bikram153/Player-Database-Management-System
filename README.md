@@ -1,7 +1,3 @@
-Certainly! Here's the revised highlight with the inclusion of move constructor and move assignment operator in the String class:
-
----
-
 **Project Title:** Player Database Management System
 
 **Description:**
