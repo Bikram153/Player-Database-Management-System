@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Database.cpp
+  Date.cpp
+  Log.cpp
+  main.cpp
+  Player.cpp
+  String.cpp
+C:\Users\USER\source\repos\Project9\Project9\String.cpp(9,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\source\repos\Project9\Project9\String.cpp(76,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\source\repos\Project9\Project9\String.cpp(77,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\source\repos\Project9\Project9\String.cpp(90,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\source\repos\Project9\Project9\String.cpp(91,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Timer.cpp
+  Generating Code...
+  Project9.vcxproj -> C:\Users\USER\source\repos\Project9\x64\Debug\Project Evaluation.exe

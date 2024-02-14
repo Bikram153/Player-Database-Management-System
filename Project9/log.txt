@@ -1,0 +1,65 @@
+2024-02-14 12:52:20 (+0.876002 seconds) Logged in successfully.
+Entered function: Database::insertPlayer
+2024-02-14 12:53:49 (+0.725734 seconds) Inserted player:
+Name: Bikram, ID: 1, Age: 22, Team: India
+Exited function: Database::insertPlayer
+Entered function: Database::insertPlayer
+2024-02-14 12:54:19 (+0.0549901 seconds) Inserted player:
+Name: John, ID: 2, Age: 23, Team: Australia
+Exited function: Database::insertPlayer
+Entered function: Database::insertPlayer
+2024-02-14 12:54:39 (+0.812264 seconds) Inserted player:
+Name: Shyam, ID: 3, Age: 28, Team: Bangladesh
+Exited function: Database::insertPlayer
+Entered function: Database::displayPlayers
+2024-02-14 12:54:47 (+0.486866 seconds) Displaying players:
+Name: Bikram, ID: 1, Age: 22, Team: India
+Name: John, ID: 2, Age: 23, Team: Australia
+Name: Shyam, ID: 3, Age: 28, Team: Bangladesh
+Exited function: Database::displayPlayers
+Entered function: Database::updatePlayer
+2024-02-14 12:55:33 (+0.0746937 seconds) Updated player:
+Name: Samprit, ID: 3, Age: 32, Team: Nepal
+Exited function: Database::updatePlayer
+Entered function: Database::displayPlayers
+2024-02-14 12:55:46 (+0.0974205 seconds) Displaying players:
+Name: Bikram, ID: 1, Age: 22, Team: India
+Name: John, ID: 2, Age: 23, Team: Australia
+Name: Samprit, ID: 3, Age: 32, Team: Nepal
+Exited function: Database::displayPlayers
+Entered function: Database::deletePlayer
+2024-02-14 12:56:04 (+0.784582 seconds) Deleted player:
+Name: John, ID: 2, Age: 23, Team: Australia
+Exited function: Database::deletePlayer
+Entered function: Database::displayPlayers
+2024-02-14 12:56:12 (+0.193737 seconds) Displaying players:
+Name: Bikram, ID: 1, Age: 22, Team: India
+Name: Samprit, ID: 3, Age: 32, Team: Nepal
+Exited function: Database::displayPlayers
+2024-02-14 12:56:29 (+0.476048 seconds) Logged out. Exiting.
+2024-02-14 13:05:23 (+0.836598 seconds) Logged in successfully.
+Entered function: Database::insertPlayer
+2024-02-14 13:06:04 (+0.28682 seconds) Inserted player:
+Name: Sachin, ID: 4, Age: 26, Team: Mumbai
+Exited function: Database::insertPlayer
+Entered function: Database::updatePlayer
+Error: Player with ID 5 not found.
+Exited function: Database::updatePlayer
+Entered function: Database::deletePlayer
+Error: Player with ID 6 not found.
+Exited function: Database::deletePlayer
+Entered function: Database::displayPlayers
+2024-02-14 13:07:35 (+0.661867 seconds) Displaying players:
+Name: Bikram, ID: 1, Age: 22, Team: India
+Name: Samprit, ID: 3, Age: 32, Team: Nepal
+Name: Sachin, ID: 4, Age: 26, Team: Mumbai
+Exited function: Database::displayPlayers
+Entered function: Database::insertPlayer
+Error: Player with the same ID already exists.
+Exited function: Database::insertPlayer
+2024-02-14 13:08:55 (+0.665802 seconds) Logged out. Exiting.
+2024-02-14 13:10:08 (+0.463912 seconds) Logged in successfully.
+Entered function: Database::displayPlayers
+Error: No players in the database.
+Exited function: Database::displayPlayers
+2024-02-14 13:10:39 (+0.0375472 seconds) Logged out. Exiting.
